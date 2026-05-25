@@ -1,4 +1,3 @@
-// 輸入T case數 再一個 n 能幾個數字 最後再 輸入數字後排由小到大 並計算換了幾次
 #include <iostream>
 #include <string>
 #include <cctype>
